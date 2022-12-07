@@ -54,8 +54,9 @@ const projects = [
     name: "Events Website",
     description: "I made a project about events (still developing)",
     stack: ["CSS", "JavaScript", "React", "Next.js"],
-    sourceCode: "https://github.com/iammardonbek/project-with-maxim",
-    livePreview: "https://project-with-maxim.vercel.app/",
+    sourceCode: "https://github.com/iammardonbek/Events-project",
+    livePreview:
+      "https://project-with-maxim-5fg4cczgf-iammardonbek.vercel.app/",
   },
 ];
 
